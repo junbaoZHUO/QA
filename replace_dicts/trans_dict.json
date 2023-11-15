@@ -1,0 +1,22 @@
+{
+    "导演":"director",
+    "指导":"direct",
+    "表演":"act",
+    "参演":"act",
+    "演":"act",
+    "演员":"actor",
+    "编剧":"editor",
+    "作曲家":"composer",
+    "档案素材":"archive footage",
+    "摄影师":"cinematographer",
+    "作家":"writer",
+    "作者":"writer",
+    "制片人":"production designer",
+    "生产商":"production",
+    "生产":"product",
+    "发行商":"distributor",
+    "发行":"distribute",
+    "特效":"specialEffect",
+    "奖":"award",
+    "奖项":"award"
+}
