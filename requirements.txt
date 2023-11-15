@@ -1,0 +1,10 @@
+spacy==2.3.5
+spacy_lookup
+flask
+torch==1.6.0
+torchvision==0.7.0
+transformers
+sentence-transformers
+py2neo
+flask
+flask-cors
