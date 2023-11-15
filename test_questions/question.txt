@@ -1,0 +1,43 @@
+What is the relationship between "The Shawshank Redemption" and Frank Darabont
+
+what movies are produced by Twentieth Century Fox (2018) (USA) (TV)
+Who is the actor of "The Phantom of the Opera at the Royal Albert Hall"
+what award does "Titanic" win
+Who direct the movie acted by Kate Winslet and Leonardo DiCaprio?
+What movies are acted by Leonardo DiCaprio and Kate Winslet?
+what movies are distributed by GGG (2018) (Germany) (DVD)
+What is the relationship between "Titanic" and "The Shawshank Redemption"?
+What is the relationship between "Titanic" and James Cameron?
+Who acted the movie directed by James Cameron?
+what award does Titanic win
+what company produc Titanic
+What is the relationship between The Legend of 1900 and Philippe Noiret?
+Who acted the movie directed by James Cameron?
+What movie are acted by James Cameron and Leonardo DiCaprio?
+What movie is directed or acted by Kate Winslet and Leonardo DiCaprio?
+What movie was directed by James Cameron and acted by Kate Winslet and Leonardo DiCaprio?
+
+# 跑起来很慢
+What movie is directed by James Cameron and not acted by Kate Winslet?
+# 报错
+What movies are acted by Leonardo DiCaprio and Kate Winslet?
+# 关系识别错
+Who direct the movie acted by Kate Winslet and Leonardo DiCaprio?
+
+首行为输入问句；
+输入示例：
+Who acted the movie directed by James Cameron? (目前可用）（关系识别对，词多提了一个 —— 已通过技巧识别出关键relation
+
+Who acted Titanic directed by James Cameron?
+
+What movie was act by Leonardo DiCaprio and Kate Winslet?
+
+What movie was directed by Tsuyoshi Yoshimoto and Hiroshi Yamaguchi?
+
+What is the relationship between James Cameron and Titanic?（不行，识别不到relationship)
+Who directed Titanic?
+Who acted Titanic?
+Who is the actor of Titanic?
+Who is the director of Titanic?
+What movie did James Cameron direct?
+What movie did Leonardo DiCaprio act?
